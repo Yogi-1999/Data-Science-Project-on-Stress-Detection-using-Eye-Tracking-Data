@@ -6,11 +6,11 @@ Abstract: In this research, we will study how eye tracker data can be used to de
 	
 	
 # 2. Main Findings<br>
-The following are the key conclusions of the research on stress detection using eye tracking data:
-    1. Because stressed and non-stressed people exhibit different eye movement patterns and pupil dilation, eye tracking data can be utilised to identify people who are under stress.
-    2. Important characteristics for stress identification utilising eye tracking data include gaze event duration, pupil diameter, and kind of eye movement.
-    3. When employing eye tracking data to detect stress, the techniques linear regression, random forest regression, and support vector regression all work well, with random forest regression doing the best.
-    4. The quantity and type of characteristics used, the algorithm used, and the preprocessing technique used all have an impact on how accurately stress may be detected using eye tracking data.
-	The study's overall conclusion is that stress detection utilising eye tracking data is a promising area of study with potential applications in a variety of industries, including healthcare, psychology, and human-computer interaction. To increase the precision and dependability of stress identification using eye tracking data and to investigate its possible application in real-world scenarios, more research is nonetheless required.
-Loading and Reading the Dataset:
-	The dataset selected from the website called figshare.com posted by Pedro Lencastre we can download from here (https://figshare.com/ndownloader/files/35049412). The dataset is uploaded to the cloud and read with the help of pandas
+The following are the key conclusions of the research on stress detection using eye tracking data:<br>
+    1. Because stressed and non-stressed people exhibit different eye movement patterns and pupil dilation, eye tracking data can be utilised to identify people who are under stress.<br>
+    2. Important characteristics for stress identification utilising eye tracking data include gaze event duration, pupil diameter, and kind of eye movement.<br>
+    3. When employing eye tracking data to detect stress, the techniques linear regression, random forest regression, and support vector regression all work well, with random forest regression doing the best.<br>
+    4. The quantity and type of characteristics used, the algorithm used, and the preprocessing technique used all have an impact on how accurately stress may be detected using eye tracking data.<br>
+	The study's overall conclusion is that stress detection utilising eye tracking data is a promising area of study with potential applications in a variety of industries, including healthcare, psychology, and human-computer interaction. To increase the precision and dependability of stress identification using eye tracking data and to investigate its possible application in real-world scenarios, more research is nonetheless required.<br>
+Loading and Reading the Dataset:<br>
+	The dataset selected from the website called figshare.com posted by Pedro Lencastre we can download from here (https://figshare.com/ndownloader/files/35049412). The dataset is uploaded to the cloud and read with the help of pandas.
